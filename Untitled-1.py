@@ -32,3 +32,9 @@ Car1.interior()
 #        selection = input("which car do you want to take a look( 1 - 3), otherwise exit this program (4)")
 #        if (selection == 1)
 
+
+
+Traceback (most recent call last):
+  File "c:/Users/rutao/Desktop/Untitled-1.py", line 26, in <module>
+    Car1.interior()
+TypeError: 'str' object is not callable
